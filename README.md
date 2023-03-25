@@ -6,7 +6,7 @@ This repository contains the source code for the web application, including an H
 
 # The web application is also deployed using Delpoy. 
 You can check out the live version of LocationFinder
- https://narayanshettigar.github.io/LocationFinder-Mapping-Your-World/
+https://narayanshettigar.github.io/LocationFinder-Mapping-Your-World/
 
 # Key features of this project include:
 
