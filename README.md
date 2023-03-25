@@ -4,6 +4,10 @@ LocationFinder is a web application that fetches a user's geolocation using the 
 
 This repository contains the source code for the web application, including an HTML file with a button to fetch the user's geolocation and a div to display the map, a JavaScript file to handle the geolocation and map integration, and a CSS file to style the HTML elements.
 
+# The web application is also deployed using Delpoy. 
+You can check out the live version of LocationFinder
+# https://narayanshettigar.github.io/LocationFinder-Mapping-Your-World/
+
 # Key features of this project include:
 
 Get Location Functionality: users can fetch their geolocation by clicking a button, and the coordinates are saved in localStorage for future use.
